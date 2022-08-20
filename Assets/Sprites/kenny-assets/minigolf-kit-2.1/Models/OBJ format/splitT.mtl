@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl border
+Kd 0.9528301 0.2022517 0.2659371
+
+newmtl green
+Kd 0.2028302 1 0.6158218
+
